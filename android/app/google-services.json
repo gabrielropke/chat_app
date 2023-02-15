@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703213904024",
+    "project_id": "chat-grv",
+    "storage_bucket": "chat-grv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703213904024:android:2a75c28203a8c5fb8770ed",
+        "android_client_info": {
+          "package_name": "com.example.chat_grv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703213904024-ra23itmo180gcf2s61ms93r3pjoldsu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhX4OGDcQFObnlAkNPmoWqeYH7EfVJ49k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703213904024-ra23itmo180gcf2s61ms93r3pjoldsu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
